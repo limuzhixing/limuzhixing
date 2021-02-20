@@ -9,3 +9,5 @@
  
  var test=fun();
 console.log(test);
+console.log(test);
+console.log(test);
